@@ -1901,8 +1901,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "fb6f3b19-442e-4a10-baf3-ed929f5396ef",
             "zIndex": 26,
+            "id": "fb6f3b19-442e-4a10-baf3-ed929f5396ef",
             "data": {
               "type": "tm.Text",
               "name": "Export-Daten schicken",
